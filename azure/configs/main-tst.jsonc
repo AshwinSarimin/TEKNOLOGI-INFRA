@@ -25,5 +25,10 @@
                 "nsj-euw-tst-vm-password"
             ]
         }
+    ],
+    "AKS": [
+        {
+            "name": "teknologi-eur1-tst-aks"
+        }
     ]
 }
